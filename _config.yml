@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Mew Mevy
 email:       your_email@example.com
-author:      John Otander
+author:      Miwa Mevy
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://mewmevy.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -33,8 +33,8 @@ post_preview_image: false
 
 # Facebook Page integration
 # (for instant articles and other stuff)
-fb_page: false
-fb_page_id:
+fb_page: true
+fb_page_id: miwamevy
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -51,11 +51,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: mewmevy
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: mewmevy
 skype_username:
 steam_nickname:
 google_plus_id:
